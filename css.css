@@ -1,0 +1,47 @@
+
+.principal{
+    
+  align-items: center;
+    background-color: antiquewhite;
+    display: flex;
+    
+}
+
+.principal1{
+    align-items: center;
+    align-content: center;  
+}
+
+.menu{
+    right: 20px;
+    text-align: center;
+    justify-content: center;
+    margin-block-start: 1em;
+}
+.btnmenu{
+    text-decoration: none !important;
+    text-align: center;
+}
+
+img{
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 1em;
+}
+
+.otro{
+    width: 300px;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin:0px auto;
+    font-size: 24px;
+    font-family:'Times New Roman', Times, serif;
+    }
+
+    .card-text{
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+    }
